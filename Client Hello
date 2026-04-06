@@ -1,0 +1,1 @@
+The Client Hello message represents the first step of the TLS handshake. In this packet, the client initiates a secure connection by proposing the supported TLS version, a list of cipher suites, and a random value used for key generation. It also includes the Server Name Indication (SNI), which specifies the target domain for the connection.
