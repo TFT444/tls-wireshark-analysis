@@ -1,0 +1,1 @@
+The Client Key Exchange message is used to establish a shared session key. The client generates a pre-master secret and encrypts it using the server’s public key. Both client and server then use this information to derive a secure session key for encrypted communication.
