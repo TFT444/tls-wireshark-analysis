@@ -1,0 +1,1 @@
+The Server Hello message is the server’s response to the Client Hello. It confirms the TLS version and selects a cipher suite from the client’s list. This chosen cipher suite defines the encryption, key exchange, and hashing algorithms used for the secure session.
