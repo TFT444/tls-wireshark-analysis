@@ -1,0 +1,1 @@
+The Certificate message is sent by the server to authenticate its identity. It contains the server’s public key and is issued by a trusted Certificate Authority (CA). This allows the client to verify the server and establish trust before proceeding with secure communication.
